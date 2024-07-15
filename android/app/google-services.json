@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966356332630",
+    "project_id": "learning-flutter-a6e55",
+    "storage_bucket": "learning-flutter-a6e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966356332630:android:576cd5457a26d205a04bf7",
+        "android_client_info": {
+          "package_name": "com.example.chat_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJntc0xNrpznWGIhdbgaUVSsoGqUY_VC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
